@@ -1,24 +1,25 @@
 Google Chrome plugin for Yandex.Music.
 
-Play/Pause – click.
-Next – double click.
-Previous – triple click.
+Play/Pause – click
+Next – double click
+Previous – triple click
 
 
-./dowload - plugin file
-./example - illustrations
-./source - source code of plugin with all files
+./dowload - Plugin file
+./example - Screenshots
+./source - Source code
 
 
 --
 
 Google Chrome плагин для Яндекс.Музыки.
 
-Пуск/Пауза – клик.
-Следующая - двойной клик.
-Предыдущая - тройной клик.
+Пуск/Пауза – клик
+Следующая - двойной клик
+Предыдущая - тройной клик
 
-На странице "Расширения" можно задать горячую клавишу и управлять плеером с клавиатуры. Для этого нужно кликнуть на "Настроить команды", затем подобрать удобную комбинацию для этого плагина, например Alt+P.
+На странице "Расширения" можно задать горячую клавишу и управлять плеером с клавиатуры.
+Для этого нужно кликнуть на "Настроить команды", затем подобрать удобную комбинацию для этого плагина, например Alt+P.
 
 
 ./dowload - Файл самого плагина для установки в Google Chrome
