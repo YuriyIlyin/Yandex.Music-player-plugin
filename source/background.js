@@ -46,7 +46,7 @@ function next() {
 
 function updateMainButtonState(state) {
     chrome.browserAction.setIcon({
-        path: state == paused ? "images/icon-pause.png" : "images/icon-play.png"
+        path: state == paused ? "images/icon-play.png" : "images/icon-pause.png"
     });
 }
 
@@ -72,11 +72,11 @@ function clickTimeout() {
 }
 
 chrome.browserAction.onClicked.addListener(function(tab) {
-    console.log('chch');
+    console.log('click');
     clickHandler();
 });
 
 chrome.extension.onMessage.addListener(function(request, sender, sendResponse) {
-    console.log('sdsd');
+    console.log('message ' + request);
     updateMainButtonState(request == "playing" ? playing : paused);
 });
