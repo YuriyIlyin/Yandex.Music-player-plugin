@@ -1,14 +1,23 @@
-Plugin for play and stop Yandex.Music for Google Chrome.
+Google Chrome plugin for Yandex.Music.
+
+Play/Pause – click.
+Next – double click.
+Previous – triple click.
+
 
 ./dowload - plugin file
 ./example - illustrations
 ./source - source code of plugin with all files
 
 
-
 --
 
-Плагин для постановки на паузу и продолжения проигрывания Яндекс.Музыки.
+Google Chrome плагин для Яндекс.Музыки.
+
+Пуск/Пауза – клик.
+Следующая - двойной клик.
+Предыдущая - тройной клик.
+
 
 ./dowload - Файл самого плагина для установки в Google Chrome
 ./example - Скриншоты
