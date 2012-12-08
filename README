@@ -5,7 +5,7 @@ Next – double click
 Previous – triple click
 
 
-./dowload - Plugin file
+./download - Plugin file
 ./example - Screenshots
 ./source - Source code
 
@@ -22,7 +22,7 @@ Google Chrome плагин для Яндекс.Музыки.
 Для этого нужно кликнуть на "Настроить команды", затем подобрать удобную комбинацию для этого плагина, например Alt+P.
 
 
-./dowload - Файл самого плагина для установки в Google Chrome
+./download - Файл самого плагина для установки в Google Chrome
 ./example - Скриншоты
 ./source - Исходники
 
